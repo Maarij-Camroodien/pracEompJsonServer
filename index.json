@@ -1,0 +1,119 @@
+{
+    "content": [
+        {
+    "skills": [
+            {
+              "id": 1,
+              "image": "https://i.postimg.cc/wjTYPQ9d/img5.png",
+              "name": "HTML",
+              "level": "SPECIALIST"
+            },
+            {
+              "id": 2,
+              "image": "https://i.postimg.cc/25S9FCnQ/csslogo.png",
+              "name": "CSS",
+              "level": "SPECIALIST"
+            },
+            {
+              "id": 3,
+              "image": "https://i.postimg.cc/fbMvXdV2/bootstraplogo.png",
+              "name": "BOOTSTRAP",
+              "level": "SPECIALIST"
+            },
+            {
+              "id": 4,
+              "image": "https://i.postimg.cc/Prm5C3Bj/javascript.png",
+              "name": "JAVASCRIPT",
+              "level": "SKILLED"
+            },
+            {
+              "id": 5,
+              "image": "https://i.postimg.cc/WbSFz59c/png-transparent-vuejs-original-wordmark-logo-icon.png",
+              "name": "VUE JS",
+              "level": "BEGINNER"
+            }
+    ],
+    "education": [
+       {
+        "id": 1,
+        "heading1": "Education",
+        "content1": "Grade 11",
+        "heading2": "Work",
+        "content2": "Worked part time for Catering Companies La Elegante Catering and The Catering Club"
+
+       },
+       {
+        "id": 2,
+        "heading1": "Education",
+        "content1": "Grade 12 Matriculated with a Bachelors",
+        "heading2": "Work",
+        "content2": "Part time for a Catering Company The Catering Club Part time in Photo Development Unikem Foto"
+       },
+       {
+        "id": 3,
+        "heading1": "Education",
+        "content1": "Life Coices Academy Coding Bootcamp",
+        "heading2": "Work",
+        "content2": "Part time for a Catering Company The Catering Club Part time in Photo Development Unikem Foto"
+       }
+    ],
+    "projects": [
+          {
+            "id": 1,
+            "image": "https://i.postimg.cc/4xJLfGvX/Ecom-Poject.png",
+            "name": "Ecommerce Prject",
+            "github": "https://github.com/Maarij-Camroodien/javascriptEOMP.git",
+            "netlify": "https://mangaverse12.netlify.app/"
+          },
+          {
+            "id": 2,
+            "image": "https://i.postimg.cc/1XkkCjbf/Calculator.png",
+            "name": "Calculator",
+            "github": "https://github.com/Maarij-Camroodien/calculator.git",
+            "netlify": "https://darling-creponne-97bc95.netlify.app/"
+          },
+          {
+            "id": 3,
+            "image": "https://i.postimg.cc/0y0pNJk4/Temperature-Converter.png",
+            "name": "Temperature Converter",
+            "github": "https://github.com/Maarij-Camroodien/temperatureConverter.git",
+            "netlify": "https://resilient-druid-7df01b.netlify.app/"
+          }
+    ],
+     "testimonials": [
+        {
+            "id": 1,
+            "image": "https://i.postimg.cc/HLyWsN9b/uthmaan.jpg",
+            "name": "Uthmaan Samsodien",
+            "testi": "Ma'arij is a very determined being, always focused and wanting to get things done on time.This is an excellent trait to have as web developer as you will always be on par with deadlines. Ma'arij is very good when working alone and even better when he is put into a group. He is always trying to upskill his self by asking questions or learning from his peers, this making him a very hard working being. He is very good in HTML and CSS. Ma'arij is kind and is good with working with people."
+           },
+           {
+            "id": 2,
+            "image": "https://i.postimg.cc/h4Vjms5K/Mish-Al-Taliep.jpg",
+            "name": "Mish-Al Taliep",
+            "testi": "Ma'arij is an individual who keeps his personal life and work life in two different worlds.He is objective driven and always has that eagerness to learn and adapt. Ma'arij shows good leadership qualities and he is also well liked among his peers. I would recommend him to any company as he will be a valuable asset."
+           },
+           {
+            "id": 3,
+            "image": "https://i.postimg.cc/qBY96pX9/Codi-Kader.jpg",
+            "name": "Codi Kader",
+            "testi": "Ma'arij Camroodien, I love that man. He is so down to earth and kind. He can put a smile on anyones face with just a few words. He is really passionate about web development and his craft. Ma'raij is always willing to help with problems relating to any type of work he can help with. He is definitely a great addition to any team or company. He works really well in a team and can bring a team alive and help them in any way possible. However, if needed he works really well alone as well."
+           },
+           {
+            "id": 4,
+            "image": "https://i.postimg.cc/pLrsKnLZ/Rabia-Haucha.jpg",
+            "name": "Rabia Haucha",
+            "testi": "As for a starter Ma'arij is very helpful and brings positive vibes into the workplace.He is extremely helpful and always pays attention in class.His work is always neat and his progress has improved alot over the past few weeks.He is a fast learner and pays as much attention to detail as possible.He is a kind human being and is very considerate and overall he works really hard to get his work done.I would highly recommend him because he would not only exceed your expectations but his ambition would strive in any company !"
+           },
+           {
+            "id": 5,
+            "image": "https://i.postimg.cc/6Qn4vpNQ/C11-Uzukhanye-Dywili-4.jpg",
+            "name": "Uzukhanye Dywili",
+            "testi": "Working with Ma'arij was an incredible experience. Their professionalism, attention to detail, and communication skills made the entire process seamless. They consistently exceeded my expectations and delivered exceptional results. I would highly recommend Ma'arij to anyone looking for a talented and dedicated professional."
+           }
+           
+     ]
+}
+
+    ]
+}
